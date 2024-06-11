@@ -38,13 +38,13 @@ Pour exécuter l'application web localement, utilisez la commande suivante :
 ```sh
 streamlit run Web_app.py
 ```
-# Structure du projet
+## Structure du projet
 
-  diabetes.csv : Jeu de données utilisé pour l'entraînement du modèle.
-  trained_model.sav : Modèle de machine learning sauvegardé.
-  Predictive sys.py : Script pour le système de prédiction.
-  Web_app.py : Script de l'application web Streamlit.
-  Deploying_Machine_Learning_model_using_Streamlit.ipynb : Notebook Jupyter pour le déploiement du modèle avec Streamlit.
+-  ### diabetes.csv : Jeu de données utilisé pour l'entraînement du modèle.
+-  ### trained_model.sav : Modèle de machine learning sauvegardé.
+-  ### Predictive sys.py : Script pour le système de prédiction.
+-  ### Web_app.py : Script de l'application web Streamlit.
+-  ### Deploying_Machine_Learning_model_using_Streamlit.ipynb : Notebook Jupyter pour le déploiement du modèle avec Streamlit.
 
 # Contribution
   Les contributions sont les bienvenues ! Veuillez fork le dépôt et créer une pull request avec vos modifications.
